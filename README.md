@@ -44,9 +44,7 @@
 |---|---------|-------------|-----|
 | 01 | **ClaimDesk AI** | Automated insurance claim processing platform — from submission to resolution | `Insurance` |
 | 02 | **Context AI** | End-to-end data pipeline — automated ingestion, analysis, and report generation | `Data` |
-| 03 | **TrackCam** | CCTV-based automated attendance system using computer vision | `CV` |
-| 04 | **Personalized Gift Platform** | E-commerce platform with integrated ML recommendation engine | `ML` |
-| 05 | **AI Career Advisor** | Career recommendation system powered by artificial intelligence | `AI` |
+| 03 | **Personalized Gift Platform** | E-commerce platform with integrated ML recommendation engine | `React, Node JS, Express JS, MongoDB` |
 
 ---
 
