@@ -142,7 +142,7 @@ ML-based diagnostic system for sleep disorder detection. Published at **IEEE ICB
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Srinidhi-Soundarrajan&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=C4B5FD&currStreakLabel=C4B5FD)
+![GitHub Streak](https://streak-stats.demolab.com?user=Stdcoders&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=C4B5FD&currStreakLabel=C4B5FD)
 
 </div>
 
