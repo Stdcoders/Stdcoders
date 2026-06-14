@@ -89,7 +89,7 @@ An autonomous agent that performs real-time analytics across multi-format datase
 
 AI voice assistant for healthcare call centers — fine-tuned DistilBERT for intent & sentiment detection, RAG pipeline over policy documents, and multi-step LLM workflows that handle **~70% of routine queries autonomously**.
 
-> **Jan 2026 – Mar 2026 · 🏆 Impetus @ PICT Hackathon**
+> **Jan 2026 – Mar 2026 · Participated and Received good feedback at the Impetus @ PICT Hackathon**
 
 </td>
 </tr>
