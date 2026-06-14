@@ -137,8 +137,8 @@ ML-based diagnostic system for sleep disorder detection. Published at **IEEE ICB
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Srinidhi-Soundarrajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=C4B5FD&text_color=94A3B8" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinidhi-Soundarrajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=94A3B8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Stdcoders&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=C4B5FD&text_color=94A3B8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stdcoders&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=94A3B8" />
 
 <br/>
 
