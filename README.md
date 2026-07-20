@@ -102,7 +102,7 @@ AI voice assistant for healthcare call centers — fine-tuned DistilBERT for int
 
 AI-powered KYC automation platform built with n8n, streamlining enterprise onboarding and compliance workflows. Designed scalable automation solutions supporting governance processes at enterprise scale.
 
-> **Mar 2026 – Present**
+> **Mar 2026 – Jun 2026**
 
 </td>
 <td width="50%" valign="top">
@@ -111,7 +111,7 @@ AI-powered KYC automation platform built with n8n, streamlining enterprise onboa
 
 `Machine Learning` `Classification` `IEEE Published`
 
-ML-based diagnostic system for sleep disorder detection. Published at **IEEE ICBDS 2025** and indexed on IEEE Xplore (Scopus). Presented and won **Best Paper at ICAN 2025** (Chitkara University).
+ML-based diagnostic system for sleep disorder detection. Published at **IEEE ICBDS 2025** and indexed on IEEE Xplore (Scopus). Presented and won **Best Paper at ICAN 2026** (Chitkara University).
 
 > **📄 IEEE Xplore · Scopus Indexed**
 
@@ -126,8 +126,8 @@ ML-based diagnostic system for sleep disorder detection. Published at **IEEE ICB
 | 🏅 Achievement | Details |
 |---|---|
 | 📰 **IEEE Publication** | SomnoGuide — IEEE ICBDS 2025, Scopus Indexed |
-| 🥇 **Best Paper Award** | ICAN 2025 @ Chitkara University |
-| ⚙️ **Industry Project** | KYC Automation Platform @ TCS (Mar 2026 – Present) |
+| 🥇 **Best Paper Award** | ICAN 2026 @ Chitkara University |
+| ⚙️ **Industry Project** | KYC Automation Platform @ TCS (Mar 2026 – Jun 2026) |
 | 🏆 **Hackathon** | Impetus @ PICT 2026 — Presented ClaimDesk AI |
 
 ---
